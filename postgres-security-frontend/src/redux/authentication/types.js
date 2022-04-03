@@ -1,0 +1,4 @@
+
+export const SET_AUTH_TOKEN = 'SET_AUTH_TOKEN'
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS'
+export const LOGIN_FAILURE = 'LOGIN_FAILURE'
